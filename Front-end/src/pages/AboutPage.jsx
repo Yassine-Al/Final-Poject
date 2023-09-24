@@ -10,13 +10,13 @@ const AboutPage = () => {
         <p className="lead text-center">
         Welcome to our premier online shopping destination, your one-stop emporium for the finest in fashion, accessories, and cutting-edge electronics. At our e-commerce store, we cater to the discerning tastes of both men and women, offering an extensive range of exquisite jewelry and the latest gadgets.
 
-Explore our vast collection of jewelry, where timeless elegance meets contemporary design. From dazzling diamond necklaces to sleek and stylish watches, we curate a selection that caters to every occasion and personal style. Whether you're looking for the perfect gift or a statement piece to elevate your own collection, our jewelry section is sure to enchant you.
+        Explore our vast collection of jewelry, where timeless elegance meets contemporary design. From dazzling diamond necklaces to sleek and stylish watches, we curate a selection that caters to every occasion and personal style. Whether you're looking for the perfect gift or a statement piece to elevate your own collection, our jewelry section is sure to enchant you.
 
-In the world of electronics, we bring you the latest in technology and innovation. Discover a range of high-performance gadgets, from smartphones and tablets to state-of-the-art headphones and smart home devices. Stay connected and ahead of the curve with our top-notch electronic offerings.
+        In the world of electronics, we bring you the latest in technology and innovation. Discover a range of high-performance gadgets, from smartphones and tablets to state-of-the-art headphones and smart home devices. Stay connected and ahead of the curve with our top-notch electronic offerings.
 
-Our user-friendly website ensures a seamless shopping experience, with detailed product descriptions, high-quality images, and secure payment options. We pride ourselves on delivering exceptional customer service and guaranteeing the authenticity and quality of all our products.
+        Our user-friendly website ensures a seamless shopping experience, with detailed product descriptions, high-quality images, and secure payment options. We pride ourselves on delivering exceptional customer service and guaranteeing the authenticity and quality of all our products.
 
-Browse our store today to find the perfect blend of style and functionality. Whether you're shopping for yourself or a loved one, our e-commerce site is your go-to destination for fashion, accessories, and cutting-edge electronics. Elevate your shopping experience with us and indulge in the ultimate online retail therapy.
+        Browse our store today to find the perfect blend of style and functionality. Whether you're shopping for yourself or a loved one, our e-commerce site is your go-to destination for fashion, accessories, and cutting-edge electronics. Elevate your shopping experience with us and indulge in the ultimate online retail therapy.
         </p>
 
         <h2 className="text-center py-4">Our Products</h2>
