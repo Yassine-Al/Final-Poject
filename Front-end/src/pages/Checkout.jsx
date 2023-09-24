@@ -64,7 +64,7 @@ const Checkout = () => {
             <div className="col-md-7 col-lg-8">
               <div className="card mb-4">
                 <div className="card-header py-3">
-                  <h4 className="mb-0">Billing address</h4>
+                  <h4 className="mb-0">Billing Address</h4>
                 </div>
                 <div className="card-body">
                   <form className="needs-validation" novalidate>
